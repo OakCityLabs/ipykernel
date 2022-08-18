@@ -66,7 +66,7 @@ setup_args = dict(
         'debugpy>=1.0.0,<2.0',
         'ipython>=7.23.1',
         'traitlets>=5.1.0,<6.0',
-        'jupyter_client<8.0',
+        'jupyter_client==7.0.6',
         'tornado>=4.2,<7.0',
         'matplotlib-inline>=0.1.0,<0.2.0',
         'appnope;platform_system=="Darwin"',

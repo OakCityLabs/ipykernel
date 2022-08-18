@@ -6,7 +6,7 @@ requires=[
   "debugpy",
   "ipython>=5",
   "jupyter_core>=4.2",
-  "jupyter_client",
+  "jupyter_client==7.0.6",
 ]
 
 [tool.check-manifest]
